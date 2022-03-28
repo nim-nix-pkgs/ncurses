@@ -11,7 +11,6 @@
   inputs.src-ncurses-master.ref   = "refs/heads/master";
   inputs.src-ncurses-master.owner = "walkre-niboshi";
   inputs.src-ncurses-master.repo  = "nim-ncurses";
-  inputs.src-ncurses-master.dir   = "";
   inputs.src-ncurses-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
