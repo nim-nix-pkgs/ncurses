@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658018071,
-        "narHash": "sha256-uYcVcbnBW0+pwBxw6EPwXNTZ8B+6bkbb6ZcW0HOKoI4=",
+        "lastModified": 1658032019,
+        "narHash": "sha256-ctekyApSwpNX7AzRcin/IaS0970Dv0HWtjMZK6Nzoq4=",
         "owner": "nim-nix-pkgs",
         "repo": "ncurses",
-        "rev": "f8fb0a4a8f98185c553b83b592d90bc88b613d8e",
+        "rev": "6af73968f318451dae0c25c54f05866d92d05a84",
         "type": "github"
       },
       "original": {
